@@ -1,0 +1,14 @@
+body
+{
+    background-image: url(images.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+p
+{
+    background-color: red;
+    color: white;
+    font-family: arial
+    font-size: 22pt;
+}
